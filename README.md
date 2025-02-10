@@ -1,64 +1,77 @@
-# Portfolio 🚀
+# 🚀 **Noah Park-Nguyen's Portfolio (V4)**  
 
-![image](https://github.com/user-attachments/assets/924da635-d588-431a-87f7-b942623050ce)
+🌐 **Live Preview:** [**Visit the Portfolio**](https://sereneprince.github.io/Portfolio-V4/)  
 
-Welcome to my personal portfolio website! This is where I showcase my skills, experience, and a bit of my personality—all wrapped up in a sleek and fun design.
+Welcome to my personal portfolio! This site showcases my **skills, experience, and personality**—all wrapped up in a **sleek, modern, and fun design**. Whether you're a **recruiter, collaborator, or just curious**, feel free to explore!  
 
-## Live Preview 🌐
+![Portfolio Preview](https://github.com/user-attachments/assets/924da635-d588-431a-87f7-b942623050ce)  
 
-[Visit the Portfolio](https://sereneprince.github.io/Portfolio-V4/)
+---
 
-## About the Project 📝
+## 📝 **About This Portfolio**  
 
-This portfolio is designed to give a personal, yet professional impression to visitors (yes, recruiters, I’m looking at you!). It’s all about blending a clean layout with a casual, humorous tone that reflects who I am. The main sections include:
+This portfolio is designed to make a **strong, professional impression** while keeping things **casual and personal**. It blends **clean visuals, smooth animations, and a conversational tone** to reflect who I am.  
 
-### Hero 🎭
-- An animated introduction with smooth fade-up effects to grab attention.
+### **📌 Key Sections**  
 
-### About 🙋‍♂️
-- A casual and concise description of who I am and what I love to do.
+- **🎭 Hero** – Animated intro with **fade-up effects** to grab attention.  
+- **🙋‍♂️ About** – A **concise, personal** overview of me and my interests.  
+- **🛠️ Skills** – A showcase of my **technical skills** across different technologies.  
+- **💼 Experience** – Highlights of my **work history & projects**.  
+- **📬 Contact** – Easy ways to **reach out**, with smooth scrolling for seamless navigation.  
 
-### Skills 🛠️
-- A showcase of my technical skills, featuring a mix of programming languages, frameworks, and tools.
+---
 
-### Experience 💼
-- Highlights of my professional journey and the projects I’ve worked on.
+## 🖥️ **Tech Stack**  
 
-### Contact 📬
-- Easy ways to reach me, complete with smooth scrolling for a seamless user experience.
+- **⚡ React** – Component-based UI development.  
+- **🎨 Tailwind CSS** – Responsive and minimal styling.  
+- **⚡ Vite** – Fast and modern development setup.  
 
-## Tech Stack 🖥️
+---
 
-This project was built using:
-- **React**: For a dynamic and component-based user interface.
-- **Tailwind CSS**: To craft a responsive and visually appealing design with ease.
-- **Vite**: For a fast and modern development setup.
+## ✨ **Features**  
 
-## Features ✨
-- **Smooth Animations**: Headers with fade-up effects for an elegant feel.
-- **Interactive Navigation**: Smooth scrolling with HashLinks for easy section navigation.
-- **Responsive Design**: Looks great on any screen size.
-- **Personalized Content**: A fun and conversational tone to make the portfolio truly mine.
+✔️ **Smooth Animations** – Elegant fade-up effects for a polished experience.  
+✔️ **Interactive Navigation** – Smooth scrolling with **HashLinks** for effortless section jumps.  
+✔️ **Fully Responsive** – Optimized for **mobile, tablet, and desktop**.  
+✔️ **Personalized Content** – A **fun and engaging** conversational tone.  
 
-## Setup ⚙️
+---
 
-1. Clone the repository:
+## ⚙️ **Setup**  
+
+1️⃣ **Clone the repository:**  
    ```bash
-   git clone https://github.com/SerenePrince/noahpn.git
-   ```
-2. Navigate to the project directory:
+   git clone https://github.com/SerenePrince/Porfolio-V4.git
+   ```  
+2️⃣ **Navigate to the project directory:**  
    ```bash
-   cd noahpn
-   ```
-3. Install dependencies:
+   cd portfolio-v4
+   ```  
+3️⃣ **Install dependencies:**  
    ```bash
    npm install
-   ```
-4. Start the development server:
+   ```  
+4️⃣ **Start the development server:**  
    ```bash
    npm run dev
-   ```
+   ```  
 
-## Contributing 🤝
+---
 
-This project is my personal portfolio, so contributions aren’t necessary. However, if you’d like to share feedback or ideas, feel free to open an issue—I’d love to hear your thoughts!
+## 🤝 **Contributing & Feedback**  
+
+This portfolio is my personal project, so contributions **aren’t necessary**. However, if you have **feedback or suggestions**, feel free to **open an issue**—I’d love to hear your thoughts!  
+
+---
+
+## 🔗 **Let's Connect!**  
+
+📧 **Email:** [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
+💻 **GitHub:** [github.com/SerenePrince](https://github.com/SerenePrince)  
+
+---
+
+Looking for my latest portfolio? Check it out here: [**Noah's Active Portfolio**](https://sereneprince.github.io/noahpn/) 🎨🚀
