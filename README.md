@@ -1,12 +1,12 @@
 # Portfolio 🚀
 
-![image](https://github.com/user-attachments/assets/4b5697b8-da41-4692-8cf0-18b5465d763a)
+![image](https://github.com/user-attachments/assets/924da635-d588-431a-87f7-b942623050ce)
 
 Welcome to my personal portfolio website! This is where I showcase my skills, experience, and a bit of my personality—all wrapped up in a sleek and fun design.
 
 ## Live Preview 🌐
 
-[Visit the Portfolio](https://sereneprince.github.io/noahpn/)
+[Visit the Portfolio](https://sereneprince.github.io/Portfolio-V4/)
 
 ## About the Project 📝
 
